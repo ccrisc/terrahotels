@@ -1,1 +1,1 @@
-importScripts("https://cdn.pushalert.co/sw-79919.js");
+importScripts("https://cdn.pushalert.co/sw-79919_2.js");
